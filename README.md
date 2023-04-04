@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Divjas-Singh/Pricing-component-toggle-master](https://github.com/Divjas-Singh/Pricing-component-toggle-master)
-- Live Site URL: []()
+- Live Site URL: [https://divjas-singh.github.io/Pricing-component-toggle-master/](https://divjas-singh.github.io/Pricing-component-toggle-master/)
 
 ### Built with
 
